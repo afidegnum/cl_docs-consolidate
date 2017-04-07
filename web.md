@@ -1,6 +1,6 @@
 WEB FRAMEWORK
-CL stable web framework
-All Batteries Included
-MicroFrameworks that can be expanded at will
-Code Snippets on how to use them.
-Feature Lacking
+<BR>CL stable web framework
+<BR>All Batteries Included
+<BR>MicroFrameworks that can be expanded at will
+<BR>Code Snippets on how to use them.
+<BR>Feature Lacking
